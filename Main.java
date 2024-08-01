@@ -14,7 +14,16 @@ public class Main {
         System.out.println("Podaj wiek.");
         int wiek = scanner.nextInt();
 
-        System.out.printf("Cześć "+imie+". Masz "+wiek+" lat.");
+        System.out.println("Cześć "+imie+". Masz "+wiek+" lat.");
+        double a = 3, b = 2;
+        double c = b / a;
+        int a2 = 5, b2 = 2;
+        int c2 = a2 % b2;
+        System.out.println(c);
+        System.out.println(c2);
+
+
+
     }
 
     @Test

@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Podaj wiek.");
         int wiek = scanner.nextInt();
 
+        
         System.out.println("Cześć "+imie+". Masz "+wiek+" lat.");
         double a = 3, b = 2;
         double c = b / a;

@@ -1,8 +1,6 @@
 import org.junit.Test;
-
 import java.util.Scanner;
 import java.util.SortedMap;
-
 import static org.junit.Assert.assertEquals;
 
 public class Main {

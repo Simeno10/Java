@@ -16,6 +16,5 @@ public class Calculator {
         System.out.println("Wynik mnożenia to: "+(wiek*x));
         System.out.println("Wynik dzielenia to: "+(wiek/x));
 
-
 }
 }

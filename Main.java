@@ -4,7 +4,6 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 import java.util.SortedMap;
-
 import static org.junit.Assert.assertEquals;
 
 public class Main {

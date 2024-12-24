@@ -34,7 +34,6 @@ public class Main {
         String formattedNumber = String.format("%.2f", a/b);
         System.out.println(formattedNumber);
 
-
     }
 
     @Test

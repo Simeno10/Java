@@ -6,7 +6,6 @@ import java.util.Scanner;
 import java.util.SortedMap;
 import static org.junit.Assert.assertEquals;
 
-
 public class Main {
     public static void main(String[] args) {
 

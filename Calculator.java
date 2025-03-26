@@ -17,3 +17,4 @@ public class Calculator {
         System.out.println("Wynik dzielenia to: "+(wiek/x));
 }
 }
+
